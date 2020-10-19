@@ -1,0 +1,2 @@
+#nohup python3 pdf_to_para_wfm.py --input "/Users/TIMAC044/Documents/HC_Data/Patna_HC/patna_hc_2014_SCA197_hi.pdf" --output "/Users/TIMAC044/Documents/HC_Data/Patna_HC/patna_hc_2014_SCA197_hi.pdf.txt" --locale "hi" &
+nohup python3 pdf_to_para_wfm.py --input "/Users/TIMAC044/Documents/HC_Data/Madras_HC/ma_hc_2018_CRP904_ta.pdf" --output "/Users/TIMAC044/Documents/HC_Data/Madras_HC/ma_hc_2018_CRP904_ta.pdf.txt" --locale "ta" &
